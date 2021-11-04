@@ -1,8 +1,8 @@
  #### Olá, me chamo Everton Leão ! 
  ##### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na ESPM
-- 🌱 Atualmente estou aprendendo C#
+- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou aprendendo tecnologias que envolvam a plataforma dotNet.
 - 👯 Estou procurando colaborar em Fórum
 - 🤔 Estou procurando ajuda com Estágio
 - 💬 Pergunte-me sobre C#
