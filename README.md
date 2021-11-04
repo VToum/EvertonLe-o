@@ -16,6 +16,6 @@
 - ⚡ Curiosidade: Correndo e programando
   
 
-  ![Snake animation](https://github.com/VToum/VToumblob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VToum/VToum/blob/output/github-contribution-grid-snake.svg)
 
 
