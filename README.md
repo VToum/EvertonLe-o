@@ -15,7 +15,7 @@
 - 😄 Pronomes: VTm
 - ⚡ Curiosidade: Correndo e programando
   
-<div>
+
   ![Snake animation](https://github.com/VToum/VToumblob/output/github-contribution-grid-snake.svg)
-</div>  
+
 
