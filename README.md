@@ -8,7 +8,7 @@
 - 💬 Pergunte-me sobre C# Games Astronomia
 - 📫 Como entrar em contato comigo: (11)98142-5237
 - 😄 Pronomes: VToum
-- ⚡ Curiosidade: Correndo e programando
+- ⚡ Curiosidade: Eu não sou o tipo de pessoa que deixa o celular sempre à vista.
  <div>
  <a href="https://github.com/VToum">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VToum&layout=compact&langs_count=7&theme=dracula"/>
