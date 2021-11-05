@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprendendo tecnologias que envolvam a plataforma dotNet.
-- 👯 Estou procurando colaborar em Fórum
+- 👯 Estou procurando colaborar em Fóruns
 - 🤔 Estou procurando ajuda com Estágio
 - 💬 Pergunte-me sobre C# Games Astronomia
 - 📫 Como entrar em contato comigo: (11)98142-5237
