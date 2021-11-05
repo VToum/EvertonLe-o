@@ -9,7 +9,6 @@
 - 📫 Como entrar em contato comigo: (11)98142-5237
 - 😄 Pronomes: VToum
 - ⚡ Curiosidade: Adoro ser simpático com as pessoas. 🙂
-- 
  <div>
  <a href="https://github.com/VToum">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VToum&layout=compact&langs_count=7&theme=dracula"/>
