@@ -5,9 +5,9 @@
 - 🌱 Atualmente estou aprendendo tecnologias que envolvam a plataforma dotNet.
 - 👯 Estou procurando colaborar em Fórum
 - 🤔 Estou procurando ajuda com Estágio
-- 💬 Pergunte-me sobre C#
+- 💬 Pergunte-me sobre C# Games Astronomia
 - 📫 Como entrar em contato comigo: (11)98142-5237
-- 😄 Pronomes: VTm
+- 😄 Pronomes: VToum
 - ⚡ Curiosidade: Correndo e programando
  <div>
  <a href="https://github.com/VToum">
