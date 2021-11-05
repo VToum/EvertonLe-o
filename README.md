@@ -2,9 +2,9 @@
  ##### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estou aprendendo tecnologias que envolvam a plataforma dotNet.
+- 🌱 Atualmente estou aprendendo tecnologias que envolvam a plataforma dotNet
 - 👯 Estou procurando colaborar em Fóruns
-- 🤔 Estou procurando ajuda com Estágio
+- 🤔 Estou procurando ajuda com Estágio em Análise e Desenvolvimento de Sistemas
 - 💬 Pergunte-me sobre C# Games Astronomia
 - 📫 Como entrar em contato comigo: (11)98142-5237
 - 😄 Pronomes: VToum
