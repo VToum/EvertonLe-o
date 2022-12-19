@@ -1,14 +1,13 @@
  #### Olá, me chamo Everton Leão ! 
  ##### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estou aprendendo tecnologias que envolvam a plataforma dotNet
-- 👯 Estou procurando colaborar em Fóruns
-- 🤔 Estou procurando ajuda com Estágio em Análise e Desenvolvimento de Sistemas
-- 💬 Pergunte-me sobre C# Games Astronomia
+- 🔭 Atualmente Trabalho Na Smit Como Desenvolvedor Web
+- 🌱 Atualmente estou trabalhando com as tecnologias C#/.NET/SQLSERVER/HTML/CSS/JQUERY
+- 👯 Continuo estudando pela plataforma alura tecnologias C#/.NET/REACT/HTML/CSS
+- 💬 Pergunte-me sobre Estudo e Games
 - 📫 Como entrar em contato comigo: (11)98142-5237
-- 😄 Pronomes: VToum
-- ⚡ Curiosidade: O impossivel é possivel
+- 😄 Pronomes: Leão
+- ⚡ Curiosidade: A programação me deu um mapa e eu estou seguindo.
  <div>
  <a href="https://github.com/VToum">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VToum&layout=compact&langs_count=7&theme=dracula"/>
