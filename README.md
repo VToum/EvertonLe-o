@@ -1,6 +1,7 @@
  #### Olá, me chamo Everton Pereira Leão ! 
  ##### Bem vindo ao meu perfil GitHub 👋
-
+ 
+- 🎓 Graduado pela Universidade Nove de Julho (UNINOVE).
 - 🔭 Atualmente Trabalho Na Smit Como Desenvolvedor Web
 - 🌱 Atualmente estou trabalhando com as tecnologias C#/.NET/SQLSERVER/HTML/CSS/JQUERY
 - 👯 Continuo estudando pela plataforma alura tecnologias C#/.NET/REACT/HTML/CSS
@@ -8,6 +9,9 @@
 - 📫 Como entrar em contato comigo: (11)98142-5237
 - 😄 Pronomes: Leão
 - ⚡ Curiosidade: A programação me deu um mapa e eu estou seguindo.
+
+
+
  <div>
  <a href="https://github.com/VToum">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VToum&layout=compact&langs_count=7&theme=dracula"/>
