@@ -4,11 +4,16 @@
 - 🎓 Graduado pela Universidade Nove de Julho (UNINOVE).
 - 🔭 Atualmente Trabalho Na Smit Como Desenvolvedor Web
 - 🌱 Atualmente estou trabalhando com as tecnologias C#/.NET/SQLSERVER/HTML/CSS/JQUERY
-- 👯 Continuo estudando pela plataforma alura tecnologias C#/.NET/REACT/HTML/CSS
+- 👯 Continuo estudando as tecnologias C#/.NET6/HTML/API
 - 💬 Pergunte-me sobre Estudo e Games
 - 📫 Como entrar em contato comigo: (11)98142-5237
 - 😄 Pronomes: Leão
 - ⚡ Curiosidade: A programação me deu um mapa e eu estou seguindo.
+
+
+
+
+
 
 
 
