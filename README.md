@@ -1,5 +1,5 @@
- ####       Olá, me chamo Everton Pereira Leão ! 
- ######          Bem vindo ao meu perfil GitHub 👋
+ ####       Olá, me chamo Everton Pereira Leão! 
+ ######     Bem vindo ao meu perfil GitHub 👋
  
  
 - 🎓 Graduado pela Universidade Nove de Julho (UNINOVE).
