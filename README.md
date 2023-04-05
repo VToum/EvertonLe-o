@@ -3,7 +3,7 @@
  
  
 - 🎓 Graduado pela Universidade Nove de Julho (UNINOVE).
-- 💼 Atualmente Trabalho Na Smit Como Desenvolvedor Web
+- 💼 Atualmente Trabalho Na AVIPAM Como Desenvolvedor Full-Stack
 - 🧰 Atualmente estou trabalhando com as tecnologias C#/.NETFramework/SQLSERVER/HTML/CSS/JQUERY
 - 📘 Continuo estudando as tecnologias C#/.NET/API
 - 💬 Pergunte-me sobre Tecnologia
