@@ -8,7 +8,7 @@
 - 📘 Continuo estudando as tecnologias C#/.NET/API
 - 📫 Como entrar em contato comigo: (11)98142-5237
 - 😄 Pronomes: Leão
-- ✨ A programação me deu um mapa e estou seguindo.
+- ✨ A programação me deu um mapa e eu estou seguindo.
 
 
 
