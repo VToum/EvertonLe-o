@@ -9,9 +9,3 @@
 - 📫 Como entrar em contato comigo: (11)98142-5237
 - 😄 Pronomes: Leão
 - ✨ A programação me deu um mapa e eu estou seguindo.
-
-
-
-![Snake animation](https://github.com/VToum/VToum/blob/output/github-contribution-grid-snake.svg)
-
-
